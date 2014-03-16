@@ -7,5 +7,6 @@ Just include the linkfix.js in your HTML and it will check if you have broken li
 
 ```xml
 <script src="linkfix.js"></script>
+```
 
 ![linkfix sample](hhttp://s11.postimg.org/r4cojw82r/linkfix.png "linkfix sample")
