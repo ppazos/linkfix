@@ -9,4 +9,4 @@ Just include the linkfix.js in your HTML and it will check if you have broken li
 <script src="linkfix.js"></script>
 ```
 
-![](hhttp://s11.postimg.org/r4cojw82r/linkfix.png)
+![](http://s11.postimg.org/r4cojw82r/linkfix.png)
